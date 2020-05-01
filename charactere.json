@@ -1,0 +1,2818 @@
+[
+    {
+        "name": "Abigail",
+        "hash": "1074457665"
+    },
+    {
+        "name": "AbigailCutscene",
+        "hash": "-1988720319"
+    },
+    {
+        "name": "Abner",
+        "hash": "-257153498"
+    },
+    {
+        "name": "Acult01AMM",
+        "hash": "1413662315"
+    },
+    {
+        "name": "Acult01AMO",
+        "hash": "1430544400"
+    },
+    {
+        "name": "Acult01AMY",
+        "hash": "-1251702741"
+    },
+    {
+        "name": "Acult02AMO",
+        "hash": "1268862154"
+    },
+    {
+        "name": "Acult02AMY",
+        "hash": "-2132435154"
+    },
+    {
+        "name": "AfriAmer01AMM",
+        "hash": "-781039234"
+    },
+    {
+        "name": "Agent14",
+        "hash": "-67533719"
+    },
+    {
+        "name": "Agent14Cutscene",
+        "hash": "1841036427"
+    },
+    {
+        "name": "AgentCutscene",
+        "hash": "-680474188"
+    },
+    {
+        "name": "AirHostess01SFY",
+        "hash": "1567728751"
+    },
+    {
+        "name": "AirWorkerSMY",
+        "hash": "1644266841"
+    },
+    {
+        "name": "AlDiNapoli",
+        "hash": "-252946718"
+    },
+    {
+        "name": "AmandaTownley",
+        "hash": "1830688247"
+    },
+    {
+        "name": "AmandaTownleyCutscene",
+        "hash": "-1779492637"
+    },
+    {
+        "name": "AmmuCity01SMY",
+        "hash": "-1643617475"
+    },
+    {
+        "name": "AmmuCountrySMM",
+        "hash": "233415434"
+    },
+    {
+        "name": "Andreas",
+        "hash": "1206185632"
+    },
+    {
+        "name": "AndreasCutscene",
+        "hash": "-413773017"
+    },
+    {
+        "name": "AnitaCutscene",
+        "hash": "117698822"
+    },
+    {
+        "name": "AntonB",
+        "hash": "-815646164"
+    },
+    {
+        "name": "AntonCutscene",
+        "hash": "-1513650250"
+    },
+    {
+        "name": "ArmBoss01GMM",
+        "hash": "-236444766"
+    },
+    {
+        "name": "ArmGoon01GMM",
+        "hash": "-39239064"
+    },
+    {
+        "name": "ArmGoon02GMY",
+        "hash": "-984709238"
+    },
+    {
+        "name": "ArmLieut01GMM",
+        "hash": "-412008429"
+    },
+    {
+        "name": "Armoured01",
+        "hash": "-839953400"
+    },
+    {
+        "name": "Armoured01SMM",
+        "hash": "-1782092083"
+    },
+    {
+        "name": "Armoured02SMM",
+        "hash": "1669696074"
+    },
+    {
+        "name": "ArmyMech01SMY",
+        "hash": "1657546978"
+    },
+    {
+        "name": "Ashley",
+        "hash": "2129936603"
+    },
+    {
+        "name": "AshleyCutscene",
+        "hash": "650367097"
+    },
+    {
+        "name": "Autopsy01SMY",
+        "hash": "-1306051250"
+    },
+    {
+        "name": "AutoShop01SMM",
+        "hash": "68070371"
+    },
+    {
+        "name": "Autoshop02SMM",
+        "hash": "-261389155"
+    },
+    {
+        "name": "AviSchwartzman",
+        "hash": "939183526"
+    },
+    {
+        "name": "AviSchwartzmanCutscene",
+        "hash": "-1734476390"
+    },
+    {
+        "name": "Azteca01GMY",
+        "hash": "1752208920"
+    },
+    {
+        "name": "BabyD",
+        "hash": "-636391810"
+    },
+    {
+        "name": "BallaEast01GMY",
+        "hash": "-198252413"
+    },
+    {
+        "name": "BallaOrig01GMY",
+        "hash": "588969535"
+    },
+    {
+        "name": "Ballas01GFY",
+        "hash": "361513884"
+    },
+    {
+        "name": "BallasOG",
+        "hash": "-1492432238"
+    },
+    {
+        "name": "BallasOGCutscene",
+        "hash": "-1410400252"
+    },
+    {
+        "name": "BallaSout01GMY",
+        "hash": "599294057"
+    },
+    {
+        "name": "Bankman01",
+        "hash": "-1022961931"
+    },
+    {
+        "name": "Bankman",
+        "hash": "-1868718465"
+    },
+    {
+        "name": "BankmanCutscene",
+        "hash": "-1755309778"
+    },
+    {
+        "name": "Barman01SMY",
+        "hash": "-442429178"
+    },
+    {
+        "name": "Barry",
+        "hash": "797459875"
+    },
+    {
+        "name": "BarryCutscene",
+        "hash": "1767447799"
+    },
+    {
+        "name": "Bartender01SFY",
+        "hash": "2014052797"
+    },
+    {
+        "name": "Baygor",
+        "hash": "1380197501"
+    },
+    {
+        "name": "BayWatch01SFY",
+        "hash": "1250841910"
+    },
+    {
+        "name": "BayWatch01SMY",
+        "hash": "189425762"
+    },
+    {
+        "name": "Beach01AFM",
+        "hash": "808859815"
+    },
+    {
+        "name": "Beach01AFY",
+        "hash": "-945854168"
+    },
+    {
+        "name": "Beach01AMM",
+        "hash": "1077785853"
+    },
+    {
+        "name": "Beach01AMO",
+        "hash": "-2077764712"
+    },
+    {
+        "name": "Beach01AMY",
+        "hash": "-771835772"
+    },
+    {
+        "name": "Beach02AMM",
+        "hash": "2021631368"
+    },
+    {
+        "name": "Beach02AMY",
+        "hash": "600300561"
+    },
+    {
+        "name": "Beach03AMY",
+        "hash": "-408329255"
+    },
+    {
+        "name": "BeachVesp01AMY",
+        "hash": "2114544056"
+    },
+    {
+        "name": "Beachvesp02AMY",
+        "hash": "-900269486"
+    },
+    {
+        "name": "Benny",
+        "hash": "-994634286"
+    },
+    {
+        "name": "BestMen",
+        "hash": "1464257942"
+    },
+    {
+        "name": "Beverly",
+        "hash": "-1113448868"
+    },
+    {
+        "name": "BeverlyCutscene",
+        "hash": "-1267809450"
+    },
+    {
+        "name": "BevHills01AFM",
+        "hash": "-1106743555"
+    },
+    {
+        "name": "Bevhills01AFY",
+        "hash": "1146800212"
+    },
+    {
+        "name": "BevHills01AMM",
+        "hash": "1423699487"
+    },
+    {
+        "name": "BevHills01AMY",
+        "hash": "1982350912"
+    },
+    {
+        "name": "BevHills02AFM",
+        "hash": "-1606864033"
+    },
+    {
+        "name": "BevHills02AFY",
+        "hash": "1546450936"
+    },
+    {
+        "name": "BevHills02AMM",
+        "hash": "1068876755"
+    },
+    {
+        "name": "BevHills02AMY",
+        "hash": "1720428295"
+    },
+    {
+        "name": "Bevhills03AFY",
+        "hash": "549978415"
+    },
+    {
+        "name": "BevHills04AFY",
+        "hash": "920595805"
+    },
+    {
+        "name": "BikeHire01",
+        "hash": "1984382277"
+    },
+    {
+        "name": "BikerChic",
+        "hash": "-96953009"
+    },
+    {
+        "name": "BlackOps01SMY",
+        "hash": "-1275859404"
+    },
+    {
+        "name": "BlackOps02SMY",
+        "hash": "2047212121"
+    },
+    {
+        "name": "BlackOps03SMY",
+        "hash": "1349953339"
+    },
+    {
+        "name": "Boar",
+        "hash": "-832573324"
+    },
+    {
+        "name": "BoatStaff01F",
+        "hash": "848542878"
+    },
+    {
+        "name": "BoatStaff01M",
+        "hash": "-933295480"
+    },
+    {
+        "name": "BodyBuild01AFM",
+        "hash": "1004114196"
+    },
+    {
+        "name": "Bouncer01SMM",
+        "hash": "-1613485779"
+    },
+    {
+        "name": "Brad",
+        "hash": "-1111799518"
+    },
+    {
+        "name": "BradCadaverCutscene",
+        "hash": "1915268960"
+    },
+    {
+        "name": "BradCutscene",
+        "hash": "-270159898"
+    },
+    {
+        "name": "BreakDance01AMY",
+        "hash": "933205398"
+    },
+    {
+        "name": "Bride",
+        "hash": "1633872967"
+    },
+    {
+        "name": "BrideCutscene",
+        "hash": "-2101379423"
+    },
+    {
+        "name": "BurgerDrug",
+        "hash": "-1954728090"
+    },
+    {
+        "name": "BurgerDrugCutscene",
+        "hash": "-1931689897"
+    },
+    {
+        "name": "BusBoy01SMY",
+        "hash": "-654717625"
+    },
+    {
+        "name": "Busicas01AMY",
+        "hash": "-1697435671"
+    },
+    {
+        "name": "Business01AFY",
+        "hash": "664399832"
+    },
+    {
+        "name": "Business01AMM",
+        "hash": "2120901815"
+    },
+    {
+        "name": "Business01AMY",
+        "hash": "-912318012"
+    },
+    {
+        "name": "Business02AFM",
+        "hash": "532905404"
+    },
+    {
+        "name": "Business02AFY",
+        "hash": "826475330"
+    },
+    {
+        "name": "Business02AMY",
+        "hash": "-1280051738"
+    },
+    {
+        "name": "Business03AFY",
+        "hash": "-1366884940"
+    },
+    {
+        "name": "Business03AMY",
+        "hash": "-1589423867"
+    },
+    {
+        "name": "Business04AFY",
+        "hash": "-1211756494"
+    },
+    {
+        "name": "Busker01SMO",
+        "hash": "-1382092357"
+    },
+    {
+        "name": "Car3Guy1",
+        "hash": "-2063996617"
+    },
+    {
+        "name": "Car3Guy1Cutscene",
+        "hash": "71501447"
+    },
+    {
+        "name": "Car3Guy2",
+        "hash": "1975732938"
+    },
+    {
+        "name": "Car3Guy2Cutscene",
+        "hash": "327394568"
+    },
+    {
+        "name": "CarBuyerCutscene",
+        "hash": "-1932625649"
+    },
+    {
+        "name": "Casey",
+        "hash": "-520477356"
+    },
+    {
+        "name": "CaseyCutscene",
+        "hash": "-359228352"
+    },
+    {
+        "name": "Cat",
+        "hash": "1462895032"
+    },
+    {
+        "name": "CCrew01SMM",
+        "hash": "-907676309"
+    },
+    {
+        "name": "Chef01SMY",
+        "hash": "261586155"
+    },
+    {
+        "name": "Chef2",
+        "hash": "-2054645053"
+    },
+    {
+        "name": "Chef2Cutscene",
+        "hash": "-1369710022"
+    },
+    {
+        "name": "Chef",
+        "hash": "1240128502"
+    },
+    {
+        "name": "ChefCutscene",
+        "hash": "-1555576182"
+    },
+    {
+        "name": "ChemSec01SMM",
+        "hash": "788443093"
+    },
+    {
+        "name": "ChemWork01GMM",
+        "hash": "-166363761"
+    },
+    {
+        "name": "ChiBoss01GMM",
+        "hash": "-1176698112"
+    },
+    {
+        "name": "ChickenHawk",
+        "hash": "-1430839454"
+    },
+    {
+        "name": "ChiCold01GMM",
+        "hash": "275618457"
+    },
+    {
+        "name": "ChiGoon01GMM",
+        "hash": "2119136831"
+    },
+    {
+        "name": "ChiGoon02GMM",
+        "hash": "-9308122"
+    },
+    {
+        "name": "Chimp",
+        "hash": "-1469565163"
+    },
+    {
+        "name": "ChinGoonCutscene",
+        "hash": "-1463670378"
+    },
+    {
+        "name": "Chip",
+        "hash": "610290475"
+    },
+    {
+        "name": "Chop",
+        "hash": "351016938"
+    },
+    {
+        "name": "CIASec01SMM",
+        "hash": "1650288984"
+    },
+    {
+        "name": "Claude01",
+        "hash": "-1057787465"
+    },
+    {
+        "name": "Clay",
+        "hash": "1825562762"
+    },
+    {
+        "name": "ClayCutscene",
+        "hash": "-607414220"
+    },
+    {
+        "name": "ClayPain",
+        "hash": "-1660909656"
+    },
+    {
+        "name": "Cletus",
+        "hash": "-429715051"
+    },
+    {
+        "name": "CletusCutscene",
+        "hash": "-890640939"
+    },
+    {
+        "name": "Clown01SMY",
+        "hash": "71929310"
+    },
+    {
+        "name": "CntryBar01SMM",
+        "hash": "436345731"
+    },
+    {
+        "name": "ComJane",
+        "hash": "-1230338610"
+    },
+    {
+        "name": "Construct01SMY",
+        "hash": "-673538407"
+    },
+    {
+        "name": "Construct02SMY",
+        "hash": "-973145378"
+    },
+    {
+        "name": "Cop01SFY",
+        "hash": "368603149"
+    },
+    {
+        "name": "Cop01SMY",
+        "hash": "1581098148"
+    },
+    {
+        "name": "CopCutscene",
+        "hash": "-1699520669"
+    },
+    {
+        "name": "Cormorant",
+        "hash": "1457690978"
+    },
+    {
+        "name": "Corpse01",
+        "hash": "773063444"
+    },
+    {
+        "name": "Corpse02",
+        "hash": "228356856"
+    },
+    {
+        "name": "Cow",
+        "hash": "-50684386"
+    },
+    {
+        "name": "Coyote",
+        "hash": "1682622302"
+    },
+    {
+        "name": "CrisFormage",
+        "hash": "678319271"
+    },
+    {
+        "name": "CrisFormageCutscene",
+        "hash": "-1041006362"
+    },
+    {
+        "name": "Crow",
+        "hash": "402729631"
+    },
+    {
+        "name": "CustomerCutscene",
+        "hash": "-1538297973"
+    },
+    {
+        "name": "Cyclist01",
+        "hash": "755956971"
+    },
+    {
+        "name": "Cyclist01amy",
+        "hash": "-37334073"
+    },
+    {
+        "name": "Dale",
+        "hash": "1182012905"
+    },
+    {
+        "name": "DaleCutscene",
+        "hash": "216536661"
+    },
+    {
+        "name": "DaveNorton",
+        "hash": "365775923"
+    },
+    {
+        "name": "DaveNortonCutscene",
+        "hash": "-2054740852"
+    },
+    {
+        "name": "Dealer01SMY",
+        "hash": "-459818001"
+    },
+    {
+        "name": "DebraCutscene",
+        "hash": "-321892375"
+    },
+    {
+        "name": "Deer",
+        "hash": "-664053099"
+    },
+    {
+        "name": "Denise",
+        "hash": "-2113195075"
+    },
+    {
+        "name": "DeniseCutscene",
+        "hash": "1870669624"
+    },
+    {
+        "name": "DeniseFriendCutscene",
+        "hash": "-1249041111"
+    },
+    {
+        "name": "Devin",
+        "hash": "1952555184"
+    },
+    {
+        "name": "DevinCutscene",
+        "hash": "788622594"
+    },
+    {
+        "name": "DevinSec01SMY",
+        "hash": "-1688898956"
+    },
+    {
+        "name": "DHill01AMY",
+        "hash": "-12678997"
+    },
+    {
+        "name": "DoaMan",
+        "hash": "1646160893"
+    },
+    {
+        "name": "DockWork01SMM",
+        "hash": "349680864"
+    },
+    {
+        "name": "DockWork01SMY",
+        "hash": "-2039072303"
+    },
+    {
+        "name": "Doctor01SMM",
+        "hash": "-730659924"
+    },
+    {
+        "name": "Dolphin",
+        "hash": "-1950698411"
+    },
+    {
+        "name": "Dom",
+        "hash": "-1674727288"
+    },
+    {
+        "name": "DomCutscene",
+        "hash": "1198698306"
+    },
+    {
+        "name": "Doorman01SMY",
+        "hash": "579932932"
+    },
+    {
+        "name": "DownTown01AFM",
+        "hash": "1699403886"
+    },
+    {
+        "name": "DownTown01AMY",
+        "hash": "766375082"
+    },
+    {
+        "name": "Dreyfuss",
+        "hash": "-628553422"
+    },
+    {
+        "name": "DreyfussCutscene",
+        "hash": "1012965715"
+    },
+    {
+        "name": "DrFriedlander",
+        "hash": "-872673803"
+    },
+    {
+        "name": "DrFriedlanderCutscene",
+        "hash": "-1549575121"
+    },
+    {
+        "name": "Drowned",
+        "hash": "1943971979"
+    },
+    {
+        "name": "DWService01SMY",
+        "hash": "1976765073"
+    },
+    {
+        "name": "DWService02SMY",
+        "hash": "-175076858"
+    },
+    {
+        "name": "EastSA01AFM",
+        "hash": "-1656894598"
+    },
+    {
+        "name": "EastSA01AFY",
+        "hash": "-173013091"
+    },
+    {
+        "name": "EastSA01AMM",
+        "hash": "-106498753"
+    },
+    {
+        "name": "Eastsa01AMY",
+        "hash": "-1538846349"
+    },
+    {
+        "name": "EastSA02AFM",
+        "hash": "1674107025"
+    },
+    {
+        "name": "EastSA02AFY",
+        "hash": "70821038"
+    },
+    {
+        "name": "EastSa02AMM",
+        "hash": "131961260"
+    },
+    {
+        "name": "EastSA02AMY",
+        "hash": "377976310"
+    },
+    {
+        "name": "EastSA03AFY",
+        "hash": "1371553700"
+    },
+    {
+        "name": "EdToh",
+        "hash": "712602007"
+    },
+    {
+        "name": "Epsilon01AFY",
+        "hash": "1755064960"
+    },
+    {
+        "name": "Epsilon01AMY",
+        "hash": "2010389054"
+    },
+    {
+        "name": "Epsilon02AMY",
+        "hash": "-1434255461"
+    },
+    {
+        "name": "ExArmy01",
+        "hash": "1161072059"
+    },
+    {
+        "name": "Fabien",
+        "hash": "-795819184"
+    },
+    {
+        "name": "FabienCutscene",
+        "hash": "1191403201"
+    },
+    {
+        "name": "Factory01SFY",
+        "hash": "1777626099"
+    },
+    {
+        "name": "Factory01SMY",
+        "hash": "1097048408"
+    },
+    {
+        "name": "FamCA01GMY",
+        "hash": "-398748745"
+    },
+    {
+        "name": "FamDD01",
+        "hash": "866411749"
+    },
+    {
+        "name": "FamDNF01GMY",
+        "hash": "-613248456"
+    },
+    {
+        "name": "FamFor01GMY",
+        "hash": "-2077218039"
+    },
+    {
+        "name": "Families01GFY",
+        "hash": "1309468115"
+    },
+    {
+        "name": "Farmer01AMM",
+        "hash": "-1806291497"
+    },
+    {
+        "name": "FatBla01AFM",
+        "hash": "-88831029"
+    },
+    {
+        "name": "FatCult01AFM",
+        "hash": "-1244692252"
+    },
+    {
+        "name": "FatLatin01AMM",
+        "hash": "1641152947"
+    },
+    {
+        "name": "FatWhite01AFM",
+        "hash": "951767867"
+    },
+    {
+        "name": "FBISuit01",
+        "hash": "988062523"
+    },
+    {
+        "name": "FBISuit01Cutscene",
+        "hash": "1482427218"
+    },
+    {
+        "name": "FemBarberSFM",
+        "hash": "373000027"
+    },
+    {
+        "name": "FIBArchitect",
+        "hash": "874722259"
+    },
+    {
+        "name": "FIBMugger01",
+        "hash": "-2051422616"
+    },
+    {
+        "name": "FIBOffice01SMM",
+        "hash": "-306416314"
+    },
+    {
+        "name": "FIBOffice02SMM",
+        "hash": "653289389"
+    },
+    {
+        "name": "FIBSec01",
+        "hash": "1558115333"
+    },
+    {
+        "name": "FIBSec01SMM",
+        "hash": "2072724299"
+    },
+    {
+        "name": "FilmDirector",
+        "hash": "728636342"
+    },
+    {
+        "name": "FilmNoir",
+        "hash": "732742363"
+    },
+    {
+        "name": "FinGuru01",
+        "hash": "1189322339"
+    },
+    {
+        "name": "Fireman01SMY",
+        "hash": "-1229853272"
+    },
+    {
+        "name": "Fish",
+        "hash": "802685111"
+    },
+    {
+        "name": "Fitness01AFY",
+        "hash": "1165780219"
+    },
+    {
+        "name": "Fitness02AFY",
+        "hash": "331645324"
+    },
+    {
+        "name": "Floyd",
+        "hash": "-1313761614"
+    },
+    {
+        "name": "FloydCutscene",
+        "hash": "103106535"
+    },
+    {
+        "name": "FosRepCutscene",
+        "hash": "466359675"
+    },
+    {
+        "name": "Franklin",
+        "hash": "-1692214353"
+    },
+    {
+        "name": "FreemodeFemale01",
+        "hash": "-1667301416"
+    },
+    {
+        "name": "FreeModeMale01",
+        "hash": "1885233650"
+    },
+    {
+        "name": "G",
+        "hash": "-2078561997"
+    },
+    {
+        "name": "Gaffer01SMM",
+        "hash": "-1453933154"
+    },
+    {
+        "name": "GarbageSMY",
+        "hash": "-294281201"
+    },
+    {
+        "name": "Gardener01SMM",
+        "hash": "1240094341"
+    },
+    {
+        "name": "Gay01AMY",
+        "hash": "-775102410"
+    },
+    {
+        "name": "Gay02AMY",
+        "hash": "-1519253631"
+    },
+    {
+        "name": "GCutscene",
+        "hash": "-1567723049"
+    },
+    {
+        "name": "GenFat01AMM",
+        "hash": "115168927"
+    },
+    {
+        "name": "GenFat02AMM",
+        "hash": "330231874"
+    },
+    {
+        "name": "GenHot01AFY",
+        "hash": "793439294"
+    },
+    {
+        "name": "GenStreet01AFO",
+        "hash": "1640504453"
+    },
+    {
+        "name": "GenStreet01AMO",
+        "hash": "-1386944600"
+    },
+    {
+        "name": "GenStreet01AMY",
+        "hash": "-1736970383"
+    },
+    {
+        "name": "GenStreet02AMY",
+        "hash": "891398354"
+    },
+    {
+        "name": "GenTransportSMM",
+        "hash": "411102470"
+    },
+    {
+        "name": "GlenStank01",
+        "hash": "1169888870"
+    },
+    {
+        "name": "Golfer01AFY",
+        "hash": "2111372120"
+    },
+    {
+        "name": "Golfer01AMM",
+        "hash": "-1444213182"
+    },
+    {
+        "name": "Golfer01AMY",
+        "hash": "-685776591"
+    },
+    {
+        "name": "Griff01",
+        "hash": "-1001079621"
+    },
+    {
+        "name": "Grip01SMY",
+        "hash": "815693290"
+    },
+    {
+        "name": "Groom",
+        "hash": "-20018299"
+    },
+    {
+        "name": "GroomCutscene",
+        "hash": "2058033618"
+    },
+    {
+        "name": "GroveStrDlrCutscene",
+        "hash": "-396800478"
+    },
+    {
+        "name": "GuadalopeCutscene",
+        "hash": "261428209"
+    },
+    {
+        "name": "Guido01",
+        "hash": "-961242577"
+    },
+    {
+        "name": "GunVend01",
+        "hash": "-1289578670"
+    },
+    {
+        "name": "GurkCutscene",
+        "hash": "-1022036185"
+    },
+    {
+        "name": "Hacker",
+        "hash": "-1715797768"
+    },
+    {
+        "name": "HairDress01SMM",
+        "hash": "1099825042"
+    },
+    {
+        "name": "HammerShark",
+        "hash": "1015224100"
+    },
+    {
+        "name": "Hao",
+        "hash": "1704428387"
+    },
+    {
+        "name": "HaoCutscene",
+        "hash": "-325152996"
+    },
+    {
+        "name": "HasJew01AMM",
+        "hash": "1809430156"
+    },
+    {
+        "name": "HasJew01AMY",
+        "hash": "-512913663"
+    },
+    {
+        "name": "Hen",
+        "hash": "1794449327"
+    },
+    {
+        "name": "HighSec01SMM",
+        "hash": "-245247470"
+    },
+    {
+        "name": "HighSec02SMM",
+        "hash": "691061163"
+    },
+    {
+        "name": "Hiker01AFY",
+        "hash": "813893651"
+    },
+    {
+        "name": "Hiker01AMY",
+        "hash": "1358380044"
+    },
+    {
+        "name": "HillBilly01AMM",
+        "hash": "1822107721"
+    },
+    {
+        "name": "HillBilly02AMM",
+        "hash": "2064532783"
+    },
+    {
+        "name": "Hippie01",
+        "hash": "-264140789"
+    },
+    {
+        "name": "Hippie01AFY",
+        "hash": "343259175"
+    },
+    {
+        "name": "Hippy01AMY",
+        "hash": "2097407511"
+    },
+    {
+        "name": "Hipster01AFY",
+        "hash": "-2109222095"
+    },
+    {
+        "name": "Hipster01AMY",
+        "hash": "587703123"
+    },
+    {
+        "name": "Hipster02AFY",
+        "hash": "-1745486195"
+    },
+    {
+        "name": "Hipster02AMY",
+        "hash": "349505262"
+    },
+    {
+        "name": "Hipster03AFY",
+        "hash": "-1514497514"
+    },
+    {
+        "name": "Hipster03AMY",
+        "hash": "1312913862"
+    },
+    {
+        "name": "Hipster04AFY",
+        "hash": "429425116"
+    },
+    {
+        "name": "Hooker01SFY",
+        "hash": "42647445"
+    },
+    {
+        "name": "Hooker02SFY",
+        "hash": "348382215"
+    },
+    {
+        "name": "Hooker03SFY",
+        "hash": "51789996"
+    },
+    {
+        "name": "HotPosh01",
+        "hash": "-1768198658"
+    },
+    {
+        "name": "HughCutscene",
+        "hash": "1863555924"
+    },
+    {
+        "name": "Humpback",
+        "hash": "1193010354"
+    },
+    {
+        "name": "Hunter",
+        "hash": "-837606178"
+    },
+    {
+        "name": "HunterCutscene",
+        "hash": "1531218220"
+    },
+    {
+        "name": "Husky",
+        "hash": "1318032802"
+    },
+    {
+        "name": "HWayCop01SMY",
+        "hash": "1939545845"
+    },
+    {
+        "name": "ImpoRage",
+        "hash": "880829941"
+    },
+    {
+        "name": "ImranCutscene",
+        "hash": "-482210853"
+    },
+    {
+        "name": "Indian01AFO",
+        "hash": "-1160266880"
+    },
+    {
+        "name": "Indian01AFY",
+        "hash": "153984193"
+    },
+    {
+        "name": "Indian01AMM",
+        "hash": "-573920724"
+    },
+    {
+        "name": "Indian01AMY",
+        "hash": "706935758"
+    },
+    {
+        "name": "JackHowitzerCutscene",
+        "hash": "1153203121"
+    },
+    {
+        "name": "Janet",
+        "hash": "225287241"
+    },
+    {
+        "name": "JanetCutscene",
+        "hash": "808778210"
+    },
+    {
+        "name": "JanitorCutscene",
+        "hash": "-1040164288"
+    },
+    {
+        "name": "JanitorSMM",
+        "hash": "-1452549652"
+    },
+    {
+        "name": "JayNorris",
+        "hash": "2050158196"
+    },
+    {
+        "name": "Jesus01",
+        "hash": "-835930287"
+    },
+    {
+        "name": "JetSki01AMY",
+        "hash": "767028979"
+    },
+    {
+        "name": "JewelAss01",
+        "hash": "-254493138"
+    },
+    {
+        "name": "JewelAss",
+        "hash": "257763003"
+    },
+    {
+        "name": "JewelAssCutscene",
+        "hash": "1145088004"
+    },
+    {
+        "name": "JewelSec01",
+        "hash": "-1395868234"
+    },
+    {
+        "name": "JewelThief",
+        "hash": "-422822692"
+    },
+    {
+        "name": "JimmyBoston",
+        "hash": "-308279251"
+    },
+    {
+        "name": "JimmyBostonCutscene",
+        "hash": "60192701"
+    },
+    {
+        "name": "JimmyDisanto",
+        "hash": "1459905209"
+    },
+    {
+        "name": "JimmyDisantoCutscene",
+        "hash": "-1194552652"
+    },
+    {
+        "name": "JoeMinuteman",
+        "hash": "-1105179493"
+    },
+    {
+        "name": "JoeMinutemanCutscene",
+        "hash": "-258122199"
+    },
+    {
+        "name": "JohnnyKlebitz",
+        "hash": "-2016771922"
+    },
+    {
+        "name": "JohnnyKlebitzCutscene",
+        "hash": "-91572095"
+    },
+    {
+        "name": "Josef",
+        "hash": "-518348876"
+    },
+    {
+        "name": "JosefCutscene",
+        "hash": "1167549130"
+    },
+    {
+        "name": "Josh",
+        "hash": "2040438510"
+    },
+    {
+        "name": "JoshCutscene",
+        "hash": "1158606749"
+    },
+    {
+        "name": "Juggalo01AFY",
+        "hash": "-619494093"
+    },
+    {
+        "name": "Juggalo01AMY",
+        "hash": "-1849016788"
+    },
+    {
+        "name": "Justin",
+        "hash": "2109968527"
+    },
+    {
+        "name": "KarenDaniels",
+        "hash": "-346957479"
+    },
+    {
+        "name": "KarenDanielsCutscene",
+        "hash": "1269774364"
+    },
+    {
+        "name": "KerryMcintosh",
+        "hash": "1530648845"
+    },
+    {
+        "name": "KillerWhale",
+        "hash": "-1920284487"
+    },
+    {
+        "name": "KorBoss01GMM",
+        "hash": "891945583"
+    },
+    {
+        "name": "Korean01GMY",
+        "hash": "611648169"
+    },
+    {
+        "name": "Korean02GMY",
+        "hash": "-1880237687"
+    },
+    {
+        "name": "KorLieut01GMY",
+        "hash": "2093736314"
+    },
+    {
+        "name": "KTown01AFM",
+        "hash": "1388848350"
+    },
+    {
+        "name": "KTown01AFO",
+        "hash": "1204772502"
+    },
+    {
+        "name": "KTown01AMM",
+        "hash": "-782401935"
+    },
+    {
+        "name": "KTown01AMO",
+        "hash": "355916122"
+    },
+    {
+        "name": "KTown01AMY",
+        "hash": "452351020"
+    },
+    {
+        "name": "KTown02AFM",
+        "hash": "1090617681"
+    },
+    {
+        "name": "KTown02AMY",
+        "hash": "696250687"
+    },
+    {
+        "name": "LamarDavis",
+        "hash": "1706635382"
+    },
+    {
+        "name": "LamarDavisCutscene",
+        "hash": "1162230285"
+    },
+    {
+        "name": "Lathandy01SMM",
+        "hash": "-1635724594"
+    },
+    {
+        "name": "Latino01AMY",
+        "hash": "321657486"
+    },
+    {
+        "name": "Lazlow",
+        "hash": "-538688539"
+    },
+    {
+        "name": "LazlowCutscene",
+        "hash": "949295643"
+    },
+    {
+        "name": "LesterCrest",
+        "hash": "1302784073"
+    },
+    {
+        "name": "LesterCrestCutscene",
+        "hash": "-1248528957"
+    },
+    {
+        "name": "LifeInvad01",
+        "hash": "1401530684"
+    },
+    {
+        "name": "LifeInvad01Cutscene",
+        "hash": "1918178165"
+    },
+    {
+        "name": "LifeInvad01SMM",
+        "hash": "-570394627"
+    },
+    {
+        "name": "LifeInvad02",
+        "hash": "666718676"
+    },
+    {
+        "name": "LineCookSMM",
+        "hash": "-610530921"
+    },
+    {
+        "name": "Lost01GFY",
+        "hash": "-44746786"
+    },
+    {
+        "name": "Lost01GMY",
+        "hash": "1330042375"
+    },
+    {
+        "name": "Lost02GMY",
+        "hash": "1032073858"
+    },
+    {
+        "name": "Lost03GMY",
+        "hash": "850468060"
+    },
+    {
+        "name": "LSMetro01SMM",
+        "hash": "1985653476"
+    },
+    {
+        "name": "Magenta",
+        "hash": "-52653814"
+    },
+    {
+        "name": "MagentaCutscene",
+        "hash": "1477887514"
+    },
+    {
+        "name": "Maid01SFM",
+        "hash": "-527186490"
+    },
+    {
+        "name": "Malibu01AMM",
+        "hash": "803106487"
+    },
+    {
+        "name": "Mani",
+        "hash": "-927261102"
+    },
+    {
+        "name": "Manuel",
+        "hash": "-46035440"
+    },
+    {
+        "name": "ManuelCutscene",
+        "hash": "-72125238"
+    },
+    {
+        "name": "Mariachi01SMM",
+        "hash": "2124742566"
+    },
+    {
+        "name": "Marine01SMM",
+        "hash": "-220552467"
+    },
+    {
+        "name": "Marine01SMY",
+        "hash": "1702441027"
+    },
+    {
+        "name": "Marine02SMM",
+        "hash": "-265970301"
+    },
+    {
+        "name": "Marine02SMY",
+        "hash": "1490458366"
+    },
+    {
+        "name": "Marine03SMY",
+        "hash": "1925237458"
+    },
+    {
+        "name": "Markfost",
+        "hash": "479578891"
+    },
+    {
+        "name": "Marnie",
+        "hash": "411185872"
+    },
+    {
+        "name": "MarnieCutscene",
+        "hash": "1464721716"
+    },
+    {
+        "name": "Marston01",
+        "hash": "943915367"
+    },
+    {
+        "name": "MartinMadrazoCutscene",
+        "hash": "1129928304"
+    },
+    {
+        "name": "Maryann",
+        "hash": "-1552967674"
+    },
+    {
+        "name": "MaryannCutscene",
+        "hash": "161007533"
+    },
+    {
+        "name": "Maude",
+        "hash": "1005070462"
+    },
+    {
+        "name": "MaudeCutscene",
+        "hash": "-1127975477"
+    },
+    {
+        "name": "MerryWeatherCutscene",
+        "hash": "1631478380"
+    },
+    {
+        "name": "MethHead01AMY",
+        "hash": "1768677545"
+    },
+    {
+        "name": "MexBoss01GMM",
+        "hash": "1466037421"
+    },
+    {
+        "name": "MexBoss02GMM",
+        "hash": "1226102803"
+    },
+    {
+        "name": "MexCntry01AMM",
+        "hash": "-578715987"
+    },
+    {
+        "name": "MexGang01GMY",
+        "hash": "-1109568186"
+    },
+    {
+        "name": "MexGoon01GMY",
+        "hash": "653210662"
+    },
+    {
+        "name": "MexGoon02GMY",
+        "hash": "832784782"
+    },
+    {
+        "name": "MexGoon03GMY",
+        "hash": "-1773333796"
+    },
+    {
+        "name": "MexLabor01AMM",
+        "hash": "-1302522190"
+    },
+    {
+        "name": "Mexthug01AMY",
+        "hash": "810804565"
+    },
+    {
+        "name": "Michael",
+        "hash": "225514697"
+    },
+    {
+        "name": "Michelle",
+        "hash": "-1080659212"
+    },
+    {
+        "name": "MichelleCutscene",
+        "hash": "1890499016"
+    },
+    {
+        "name": "Migrant01SFY",
+        "hash": "-715445259"
+    },
+    {
+        "name": "Migrant01SMM",
+        "hash": "-317922106"
+    },
+    {
+        "name": "MilitaryBum",
+        "hash": "1191548746"
+    },
+    {
+        "name": "Milton",
+        "hash": "-886023758"
+    },
+    {
+        "name": "MiltonCutscene",
+        "hash": "-1217776881"
+    },
+    {
+        "name": "MimeSMY",
+        "hash": "1021093698"
+    },
+    {
+        "name": "Miranda",
+        "hash": "1095737979"
+    },
+    {
+        "name": "Mistress",
+        "hash": "1573528872"
+    },
+    {
+        "name": "Misty01",
+        "hash": "-785842275"
+    },
+    {
+        "name": "Molly",
+        "hash": "-1358701087"
+    },
+    {
+        "name": "MollyCutscene",
+        "hash": "1167167044"
+    },
+    {
+        "name": "Motox01AMY",
+        "hash": "1694362237"
+    },
+    {
+        "name": "Motox02AMY",
+        "hash": "2007797722"
+    },
+    {
+        "name": "MountainLion",
+        "hash": "307287994"
+    },
+    {
+        "name": "MovAlien01",
+        "hash": "1684083350"
+    },
+    {
+        "name": "MoviePremFemaleCutscene",
+        "hash": "1270514905"
+    },
+    {
+        "name": "MoviePremMaleCutscene",
+        "hash": "-1922568579"
+    },
+    {
+        "name": "MovieStar",
+        "hash": "894928436"
+    },
+    {
+        "name": "MovPrem01SFY",
+        "hash": "587253782"
+    },
+    {
+        "name": "MovPrem01SMM",
+        "hash": "-664900312"
+    },
+    {
+        "name": "MovSpace01SMM",
+        "hash": "-407694286"
+    },
+    {
+        "name": "MPros01",
+        "hash": "1822283721"
+    },
+    {
+        "name": "MrK",
+        "hash": "-304305299"
+    },
+    {
+        "name": "MrKCutscene",
+        "hash": "-1010001291"
+    },
+    {
+        "name": "MrsPhillips",
+        "hash": "946007720"
+    },
+    {
+        "name": "MrsPhillipsCutscene",
+        "hash": "-872569905"
+    },
+    {
+        "name": "MrsThornhill",
+        "hash": "503621995"
+    },
+    {
+        "name": "MrsThornhillCutscene",
+        "hash": "1334976110"
+    },
+    {
+        "name": "MusclBeac01AMY",
+        "hash": "1264920838"
+    },
+    {
+        "name": "MusclBeac02AMY",
+        "hash": "-920443780"
+    },
+    {
+        "name": "Natalia",
+        "hash": "-568861381"
+    },
+    {
+        "name": "NataliaCutscene",
+        "hash": "1325314544"
+    },
+    {
+        "name": "NervousRon",
+        "hash": "-1124046095"
+    },
+    {
+        "name": "NervousRonCutscene",
+        "hash": "2023152276"
+    },
+    {
+        "name": "Nigel",
+        "hash": "-927525251"
+    },
+    {
+        "name": "NigelCutscene",
+        "hash": "-515400693"
+    },
+    {
+        "name": "Niko01",
+        "hash": "-287649847"
+    },
+    {
+        "name": "OGBoss01AMM",
+        "hash": "1746653202"
+    },
+    {
+        "name": "OldMan1A",
+        "hash": "1906124788"
+    },
+    {
+        "name": "OldMan1aCutscene",
+        "hash": "518814684"
+    },
+    {
+        "name": "OldMan2",
+        "hash": "-283816889"
+    },
+    {
+        "name": "OldMan2Cutscene",
+        "hash": "-1728452752"
+    },
+    {
+        "name": "Omega",
+        "hash": "1625728984"
+    },
+    {
+        "name": "OmegaCutscene",
+        "hash": "-1955548155"
+    },
+    {
+        "name": "Oneil",
+        "hash": "768005095"
+    },
+    {
+        "name": "Orleans",
+        "hash": "1641334641"
+    },
+    {
+        "name": "OrleansCutscene",
+        "hash": "-1389097126"
+    },
+    {
+        "name": "Ortega",
+        "hash": "648372919"
+    },
+    {
+        "name": "OrtegaCutscene",
+        "hash": "-1059388209"
+    },
+    {
+        "name": "OscarCutscene",
+        "hash": "-199280229"
+    },
+    {
+        "name": "Paige",
+        "hash": "357551935"
+    },
+    {
+        "name": "PaigeCutscene",
+        "hash": "1528799427"
+    },
+    {
+        "name": "Paparazzi01AMM",
+        "hash": "-322270187"
+    },
+    {
+        "name": "Paparazzi",
+        "hash": "1346941736"
+    },
+    {
+        "name": "Paper",
+        "hash": "-1717894970"
+    },
+    {
+        "name": "PaperCutscene",
+        "hash": "1798879480"
+    },
+    {
+        "name": "Paramedic01SMM",
+        "hash": "-1286380898"
+    },
+    {
+        "name": "Party01",
+        "hash": "921110016"
+    },
+    {
+        "name": "PartyTarget",
+        "hash": "-2114499097"
+    },
+    {
+        "name": "Patricia",
+        "hash": "-982642292"
+    },
+    {
+        "name": "PatriciaCutscene",
+        "hash": "-544533759"
+    },
+    {
+        "name": "PestCont01SMY",
+        "hash": "1209091352"
+    },
+    {
+        "name": "PestContDriver",
+        "hash": "994527967"
+    },
+    {
+        "name": "PestContGunman",
+        "hash": "193469166"
+    },
+    {
+        "name": "Pig",
+        "hash": "-1323586730"
+    },
+    {
+        "name": "Pigeon",
+        "hash": "111281960"
+    },
+    {
+        "name": "Pilot01SMM",
+        "hash": "-413447396"
+    },
+    {
+        "name": "Pilot01SMY",
+        "hash": "-1422914553"
+    },
+    {
+        "name": "Pilot02SMM",
+        "hash": "-163714847"
+    },
+    {
+        "name": "Pogo01",
+        "hash": "-598109171"
+    },
+    {
+        "name": "PoloGoon01GMY",
+        "hash": "1329576454"
+    },
+    {
+        "name": "PoloGoon02GMY",
+        "hash": "-1561829034"
+    },
+    {
+        "name": "Polynesian01AMM",
+        "hash": "-1445349730"
+    },
+    {
+        "name": "Polynesian01AMY",
+        "hash": "-2088436577"
+    },
+    {
+        "name": "Poodle",
+        "hash": "1125994524"
+    },
+    {
+        "name": "Popov",
+        "hash": "645279998"
+    },
+    {
+        "name": "PopovCutscene",
+        "hash": "1635617250"
+    },
+    {
+        "name": "PoppyMich",
+        "hash": "602513566"
+    },
+    {
+        "name": "PornDudesCutscene",
+        "hash": "793443893"
+    },
+    {
+        "name": "Postal01SMM",
+        "hash": "1650036788"
+    },
+    {
+        "name": "Postal02SMM",
+        "hash": "1936142927"
+    },
+    {
+        "name": "Priest",
+        "hash": "1681385341"
+    },
+    {
+        "name": "PriestCutscene",
+        "hash": "1299047806"
+    },
+    {
+        "name": "Princess",
+        "hash": "-756833660"
+    },
+    {
+        "name": "PrisGuard01SMM",
+        "hash": "1456041926"
+    },
+    {
+        "name": "PrisMuscl01SMY",
+        "hash": "1596003233"
+    },
+    {
+        "name": "Prisoner01",
+        "hash": "2073775040"
+    },
+    {
+        "name": "Prisoner01SMY",
+        "hash": "-1313105063"
+    },
+    {
+        "name": "PrologueDriver",
+        "hash": "-2057423197"
+    },
+    {
+        "name": "PrologueDriverCutscene",
+        "hash": "-267695653"
+    },
+    {
+        "name": "PrologueHostage01",
+        "hash": "-988619485"
+    },
+    {
+        "name": "PrologueHostage01AFM",
+        "hash": "379310561"
+    },
+    {
+        "name": "PrologueHostage01AMM",
+        "hash": "-1760377969"
+    },
+    {
+        "name": "PrologueMournFemale01",
+        "hash": "-1576494617"
+    },
+    {
+        "name": "PrologueMournMale01",
+        "hash": "-829029621"
+    },
+    {
+        "name": "PrologueSec01",
+        "hash": "1888624839"
+    },
+    {
+        "name": "PrologueSec01Cutscene",
+        "hash": "2141384740"
+    },
+    {
+        "name": "PrologueSec02",
+        "hash": "666086773"
+    },
+    {
+        "name": "PrologueSec02Cutscene",
+        "hash": "512955554"
+    },
+    {
+        "name": "Pug",
+        "hash": "1832265812"
+    },
+    {
+        "name": "Rabbit",
+        "hash": "-541762431"
+    },
+    {
+        "name": "RampGang",
+        "hash": "-449965460"
+    },
+    {
+        "name": "RampGangCutscene",
+        "hash": "-1031795266"
+    },
+    {
+        "name": "RampHic",
+        "hash": "1165307954"
+    },
+    {
+        "name": "RampHicCutscene",
+        "hash": "-2054384456"
+    },
+    {
+        "name": "RampHipster",
+        "hash": "-554721426"
+    },
+    {
+        "name": "RampHipsterCutscene",
+        "hash": "569740212"
+    },
+    {
+        "name": "RampMarineCutscene",
+        "hash": "1634506681"
+    },
+    {
+        "name": "RampMex",
+        "hash": "-424905564"
+    },
+    {
+        "name": "RampMexCutscene",
+        "hash": "-162605104"
+    },
+    {
+        "name": "Ranger01SFY",
+        "hash": "-1614285257"
+    },
+    {
+        "name": "Ranger01SMY",
+        "hash": "-277793362"
+    },
+    {
+        "name": "Rashkovsky",
+        "hash": "940326374"
+    },
+    {
+        "name": "RashkovskyCutscene",
+        "hash": "411081129"
+    },
+    {
+        "name": "Rat",
+        "hash": "-1011537562"
+    },
+    {
+        "name": "ReporterCutscene",
+        "hash": "776079908"
+    },
+    {
+        "name": "Retriever",
+        "hash": "882848737"
+    },
+    {
+        "name": "Rhesus",
+        "hash": "-1026527405"
+    },
+    {
+        "name": "RivalPaparazzi",
+        "hash": "1624626906"
+    },
+    {
+        "name": "RoadCyc01AMY",
+        "hash": "-178150202"
+    },
+    {
+        "name": "Robber01SMY",
+        "hash": "-1067576423"
+    },
+    {
+        "name": "RoccoPelosi",
+        "hash": "-709209345"
+    },
+    {
+        "name": "RoccoPelosiCutscene",
+        "hash": "-1436281204"
+    },
+    {
+        "name": "Rottweiler",
+        "hash": "-1788665315"
+    },
+    {
+        "name": "RsRanger01AMO",
+        "hash": "1011059922"
+    },
+    {
+        "name": "Runner01AFY",
+        "hash": "-951490775"
+    },
+    {
+        "name": "Runner01AMY",
+        "hash": "623927022"
+    },
+    {
+        "name": "Runner02AMY",
+        "hash": "-2076336881"
+    },
+    {
+        "name": "RurMeth01AFY",
+        "hash": "1064866854"
+    },
+    {
+        "name": "RurMeth01AMM",
+        "hash": "1001210244"
+    },
+    {
+        "name": "RussianDrunk",
+        "hash": "1024089777"
+    },
+    {
+        "name": "RussianDrunkCutscene",
+        "hash": "1179785778"
+    },
+    {
+        "name": "Salton01AFM",
+        "hash": "-569505431"
+    },
+    {
+        "name": "Salton01AFO",
+        "hash": "-855671414"
+    },
+    {
+        "name": "Salton01AMM",
+        "hash": "1328415626"
+    },
+    {
+        "name": "Salton01AMO",
+        "hash": "539004493"
+    },
+    {
+        "name": "Salton01AMY",
+        "hash": "-681546704"
+    },
+    {
+        "name": "Salton02AMM",
+        "hash": "1626646295"
+    },
+    {
+        "name": "Salton03AMM",
+        "hash": "-1299428795"
+    },
+    {
+        "name": "Salton04AMM",
+        "hash": "-1773858377"
+    },
+    {
+        "name": "SalvaBoss01GMY",
+        "hash": "-1872961334"
+    },
+    {
+        "name": "SalvaGoon01GMY",
+        "hash": "663522487"
+    },
+    {
+        "name": "SalvaGoon02GMY",
+        "hash": "846439045"
+    },
+    {
+        "name": "SalvaGoon03GMY",
+        "hash": "62440720"
+    },
+    {
+        "name": "SBikeAMO",
+        "hash": "1794381917"
+    },
+    {
+        "name": "SCDressy01AFY",
+        "hash": "-614546432"
+    },
+    {
+        "name": "Scientist01SMM",
+        "hash": "1092080539"
+    },
+    {
+        "name": "ScreenWriter",
+        "hash": "-1689993"
+    },
+    {
+        "name": "ScreenWriterCutscene",
+        "hash": "-1948177172"
+    },
+    {
+        "name": "Scrubs01SFY",
+        "hash": "-1420211530"
+    },
+    {
+        "name": "Seagull",
+        "hash": "-745300483"
+    },
+    {
+        "name": "Security01SMM",
+        "hash": "-681004504"
+    },
+    {
+        "name": "Shepherd",
+        "hash": "1126154828"
+    },
+    {
+        "name": "Sheriff01SFY",
+        "hash": "1096929346"
+    },
+    {
+        "name": "Sheriff01SMY",
+        "hash": "-1320879687"
+    },
+    {
+        "name": "ShopHighSFM",
+        "hash": "-1371020112"
+    },
+    {
+        "name": "ShopKeep01",
+        "hash": "416176080"
+    },
+    {
+        "name": "ShopLowSFY",
+        "hash": "-1452399100"
+    },
+    {
+        "name": "ShopMaskSMY",
+        "hash": "1846684678"
+    },
+    {
+        "name": "ShopMidSFY",
+        "hash": "1055701597"
+    },
+    {
+        "name": "SiemonYetarian",
+        "hash": "1283141381"
+    },
+    {
+        "name": "SiemonYetarianCutscene",
+        "hash": "-1064078846"
+    },
+    {
+        "name": "Skater01AFY",
+        "hash": "1767892582"
+    },
+    {
+        "name": "Skater01AMM",
+        "hash": "-640198516"
+    },
+    {
+        "name": "Skater01AMY",
+        "hash": "-1044093321"
+    },
+    {
+        "name": "Skater02AMY",
+        "hash": "-1342520604"
+    },
+    {
+        "name": "Skidrow01AFM",
+        "hash": "-1332260293"
+    },
+    {
+        "name": "SkidRow01AMM",
+        "hash": "32417469"
+    },
+    {
+        "name": "SnowCop01SMM",
+        "hash": "451459928"
+    },
+    {
+        "name": "SoCenLat01AMM",
+        "hash": "193817059"
+    },
+    {
+        "name": "Solomon",
+        "hash": "-2034368986"
+    },
+    {
+        "name": "SolomonCutscene",
+        "hash": "-154017714"
+    },
+    {
+        "name": "SouCent01AFM",
+        "hash": "1951946145"
+    },
+    {
+        "name": "SouCent01AFO",
+        "hash": "1039800368"
+    },
+    {
+        "name": "SouCent01AFY",
+        "hash": "744758650"
+    },
+    {
+        "name": "SouCent01AMM",
+        "hash": "1750583735"
+    },
+    {
+        "name": "SouCent01AMO",
+        "hash": "718836251"
+    },
+    {
+        "name": "SouCent01AMY",
+        "hash": "-417940021"
+    },
+    {
+        "name": "SouCent02AFM",
+        "hash": "-215821512"
+    },
+    {
+        "name": "SouCent02AFO",
+        "hash": "-1519524074"
+    },
+    {
+        "name": "SouCent02AFY",
+        "hash": "1519319503"
+    },
+    {
+        "name": "SouCent02AMM",
+        "hash": "-1620232223"
+    },
+    {
+        "name": "SouCent02AMO",
+        "hash": "1082572151"
+    },
+    {
+        "name": "SouCent02AMY",
+        "hash": "-1398552374"
+    },
+    {
+        "name": "SouCent03AFY",
+        "hash": "-2018356203"
+    },
+    {
+        "name": "SouCent03AMM",
+        "hash": "-1948675910"
+    },
+    {
+        "name": "SouCent03AMO",
+        "hash": "238213328"
+    },
+    {
+        "name": "SouCent03AMY",
+        "hash": "-1007618204"
+    },
+    {
+        "name": "SouCent04AMM",
+        "hash": "-1023672578"
+    },
+    {
+        "name": "SouCent04AMY",
+        "hash": "-1976105999"
+    },
+    {
+        "name": "SouCentMC01AFM",
+        "hash": "-840346158"
+    },
+    {
+        "name": "SpyActor",
+        "hash": "-1408326184"
+    },
+    {
+        "name": "SpyActress",
+        "hash": "1535236204"
+    },
+    {
+        "name": "StagGrm01AMO",
+        "hash": "-1852518909"
+    },
+    {
+        "name": "StBla01AMY",
+        "hash": "-812470807"
+    },
+    {
+        "name": "Stbla02AMY",
+        "hash": "-1731772337"
+    },
+    {
+        "name": "SteveHain",
+        "hash": "941695432"
+    },
+    {
+        "name": "SteveHainsCutscene",
+        "hash": "-1528782338"
+    },
+    {
+        "name": "Stingray",
+        "hash": "-1589092019"
+    },
+    {
+        "name": "StLat01AMY",
+        "hash": "-2039163396"
+    },
+    {
+        "name": "StLat02AMM",
+        "hash": "-1029146878"
+    },
+    {
+        "name": "Stretch",
+        "hash": "915948376"
+    },
+    {
+        "name": "StretchCutscene",
+        "hash": "-1992464379"
+    },
+    {
+        "name": "Stripper01Cutscene",
+        "hash": "-1360365899"
+    },
+    {
+        "name": "Stripper01SFY",
+        "hash": "1381498905"
+    },
+    {
+        "name": "Stripper02Cutscene",
+        "hash": "-2126242959"
+    },
+    {
+        "name": "Stripper02SFY",
+        "hash": "1846523796"
+    },
+    {
+        "name": "StripperLite",
+        "hash": "695248020"
+    },
+    {
+        "name": "StripperLiteSFY",
+        "hash": "1544875514"
+    },
+    {
+        "name": "StrPerf01SMM",
+        "hash": "2035992488"
+    },
+    {
+        "name": "StrPreach01SMM",
+        "hash": "469792763"
+    },
+    {
+        "name": "StrPunk01GMY",
+        "hash": "-48477765"
+    },
+    {
+        "name": "StrPunk02GMY",
+        "hash": "228715206"
+    },
+    {
+        "name": "StrVend01SMM",
+        "hash": "-829353047"
+    },
+    {
+        "name": "StrVend01SMY",
+        "hash": "-1837161693"
+    },
+    {
+        "name": "StWhi01AMY",
+        "hash": "605602864"
+    },
+    {
+        "name": "StWhi02AMY",
+        "hash": "919005580"
+    },
+    {
+        "name": "SunBathe01AMY",
+        "hash": "-1222037748"
+    },
+    {
+        "name": "Surfer01AMY",
+        "hash": "-356333586"
+    },
+    {
+        "name": "SWAT01SMY",
+        "hash": "-1920001264"
+    },
+    {
+        "name": "SweatShop01SFM",
+        "hash": "824925120"
+    },
+    {
+        "name": "SweatShop01SFY",
+        "hash": "-2063419726"
+    },
+    {
+        "name": "Talina",
+        "hash": "-409745176"
+    },
+    {
+        "name": "Tanisha",
+        "hash": "226559113"
+    },
+    {
+        "name": "TanishaCutscene",
+        "hash": "1123963760"
+    },
+    {
+        "name": "TaoCheng",
+        "hash": "-597926235"
+    },
+    {
+        "name": "TaoChengCutscene",
+        "hash": "-2006710211"
+    },
+    {
+        "name": "TaosTranslator",
+        "hash": "2089096292"
+    },
+    {
+        "name": "TaosTranslatorCutscene",
+        "hash": "1397974313"
+    },
+    {
+        "name": "TapHillBilly",
+        "hash": "-1709285806"
+    },
+    {
+        "name": "Tattoo01AMO",
+        "hash": "-1800524916"
+    },
+    {
+        "name": "Tennis01AFY",
+        "hash": "1426880966"
+    },
+    {
+        "name": "Tennis01AMM",
+        "hash": "1416254276"
+    },
+    {
+        "name": "TennisCoach",
+        "hash": "-1573167273"
+    },
+    {
+        "name": "TennisCoachCutscene",
+        "hash": "1545995274"
+    },
+    {
+        "name": "Terry",
+        "hash": "1728056212"
+    },
+    {
+        "name": "TerryCutscene",
+        "hash": "978452933"
+    },
+    {
+        "name": "TigerShark",
+        "hash": "113504370"
+    },
+    {
+        "name": "TomCutscene",
+        "hash": "1776856003"
+    },
+    {
+        "name": "TomEpsilon",
+        "hash": "-847807830"
+    },
+    {
+        "name": "TomEpsilonCutscene",
+        "hash": "-1945119518"
+    },
+    {
+        "name": "Tonya",
+        "hash": "-892841148"
+    },
+    {
+        "name": "TonyaCutscene",
+        "hash": "1665391897"
+    },
+    {
+        "name": "Topless01AFY",
+        "hash": "-1661836925"
+    },
+    {
+        "name": "Tourist01AFM",
+        "hash": "1347814329"
+    },
+    {
+        "name": "Tourist01AFY",
+        "hash": "1446741360"
+    },
+    {
+        "name": "Tourist01AMM",
+        "hash": "-929103484"
+    },
+    {
+        "name": "Tourist02AFY",
+        "hash": "-1859912896"
+    },
+    {
+        "name": "TracyDisanto",
+        "hash": "-566941131"
+    },
+    {
+        "name": "TracyDisantoCutScene",
+        "hash": "101298480"
+    },
+    {
+        "name": "TrafficWarden",
+        "hash": "1461287021"
+    },
+    {
+        "name": "TrafficWardenCutscene",
+        "hash": "-567724045"
+    },
+    {
+        "name": "Tramp01",
+        "hash": "1787764635"
+    },
+    {
+        "name": "Tramp01AFM",
+        "hash": "1224306523"
+    },
+    {
+        "name": "Tramp01AMM",
+        "hash": "516505552"
+    },
+    {
+        "name": "Tramp01AMO",
+        "hash": "390939205"
+    },
+    {
+        "name": "TrampBeac01AFM",
+        "hash": "-1935621530"
+    },
+    {
+        "name": "TrampBeac01AMM",
+        "hash": "1404403376"
+    },
+    {
+        "name": "TranVest01AMM",
+        "hash": "-521758348"
+    },
+    {
+        "name": "TranVest02AMM",
+        "hash": "-150026812"
+    },
+    {
+        "name": "Trevor",
+        "hash": "-1686040670"
+    },
+    {
+        "name": "Trucker01SMM",
+        "hash": "1498487404"
+    },
+    {
+        "name": "TylerDixon",
+        "hash": "1382414087"
+    },
+    {
+        "name": "UndercoverCopCutscene",
+        "hash": "-277325206"
+    },
+    {
+        "name": "UPS01SMM",
+        "hash": "-1614577886"
+    },
+    {
+        "name": "UPS02SMM",
+        "hash": "-792862442"
+    },
+    {
+        "name": "USCG01SMY",
+        "hash": "-905948951"
+    },
+    {
+        "name": "Vagos01GFY",
+        "hash": "1520708641"
+    },
+    {
+        "name": "VagosFun01",
+        "hash": "-995747907"
+    },
+    {
+        "name": "VagosSpeak",
+        "hash": "-100858228"
+    },
+    {
+        "name": "VagosSpeakCutscene",
+        "hash": "1224690857"
+    },
+    {
+        "name": "Valet01SMY",
+        "hash": "999748158"
+    },
+    {
+        "name": "VinDouche01AMY",
+        "hash": "-1047300121"
+    },
+    {
+        "name": "Vinewood01AFY",
+        "hash": "435429221"
+    },
+    {
+        "name": "VineWood01AMY",
+        "hash": "1264851357"
+    },
+    {
+        "name": "Vinewood02AFY",
+        "hash": "-625565461"
+    },
+    {
+        "name": "VineWood02AMY",
+        "hash": "1561705728"
+    },
+    {
+        "name": "Vinewood03AFY",
+        "hash": "933092024"
+    },
+    {
+        "name": "Vinewood03AMY",
+        "hash": "534725268"
+    },
+    {
+        "name": "Vinewood04AFY",
+        "hash": "-85696186"
+    },
+    {
+        "name": "Vinewood04AMY",
+        "hash": "835315305"
+    },
+    {
+        "name": "Wade",
+        "hash": "-1835459726"
+    },
+    {
+        "name": "WadeCutscene",
+        "hash": "-765011498"
+    },
+    {
+        "name": "Waiter01SMY",
+        "hash": "-1387498932"
+    },
+    {
+        "name": "WeiCheng",
+        "hash": "-1427838341"
+    },
+    {
+        "name": "WeiChengCutscene",
+        "hash": "819699067"
+    },
+    {
+        "name": "Westy",
+        "hash": "-1384627013"
+    },
+    {
+        "name": "WillyFist",
+        "hash": "-1871275377"
+    },
+    {
+        "name": "WinClean01SMY",
+        "hash": "1426951581"
+    },
+    {
+        "name": "XMech01SMY",
+        "hash": "1142162924"
+    },
+    {
+        "name": "XMech02SMY",
+        "hash": "-1105135100"
+    },
+    {
+        "name": "Yoga01AFY",
+        "hash": "-1004861906"
+    },
+    {
+        "name": "Yoga01AMY",
+        "hash": "-1425378987"
+    },
+    {
+        "name": "Zimbor",
+        "hash": "188012277"
+    },
+    {
+        "name": "ZimborCutscene",
+        "hash": "-357782800"
+    },
+    {
+        "name": "Zombie01",
+        "hash": "-1404353274"
+    }
+]

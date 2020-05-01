@@ -1,0 +1,962 @@
+[
+    {
+        "id": 0,
+        "name": "Metallic Black",
+        "hexcolor": "#0d1116",
+        "rgbcolor": "13, 17, 22;"
+    },
+    {
+        "id": 1,
+        "name": "Metallic Graphite Black",
+        "hexcolor": "#1c1d21",
+        "rgbcolor": "28, 29, 33;"
+    },
+    {
+        "id": 2,
+        "name": "Metallic Black Steal",
+        "hexcolor": "#32383d",
+        "rgbcolor": "50, 56, 61;"
+    },
+    {
+        "id": 3,
+        "name": "Metallic Dark Silver",
+        "hexcolor": "#454b4f",
+        "rgbcolor": "69, 75, 79;"
+    },
+    {
+        "id": 4,
+        "name": "Metallic Silver",
+        "hexcolor": "#999da0",
+        "rgbcolor": "153, 157, 160;"
+    },
+    {
+        "id": 5,
+        "name": "Metallic Blue Silver",
+        "hexcolor": "#c2c4c6",
+        "rgbcolor": "194, 196, 198;"
+    },
+    {
+        "id": 6,
+        "name": "Metallic Steel Gray",
+        "hexcolor": "#979a97",
+        "rgbcolor": "151, 154, 151;"
+    },
+    {
+        "id": 7,
+        "name": "Metallic Shadow Silver",
+        "hexcolor": "#637380",
+        "rgbcolor": "99, 115, 128;"
+    },
+    {
+        "id": 8,
+        "name": "Metallic Stone Silver",
+        "hexcolor": "#63625c",
+        "rgbcolor": "99, 98, 92;"
+    },
+    {
+        "id": 9,
+        "name": "Metallic Midnight Silver",
+        "hexcolor": "#3c3f47",
+        "rgbcolor": "60, 63, 71;"
+    },
+    {
+        "id": 10,
+        "name": "Metallic Gun Metal",
+        "hexcolor": "#444e54",
+        "rgbcolor": "68, 78, 84;"
+    },
+    {
+        "id": 11,
+        "name": "Metallic Anthracite Grey",
+        "hexcolor": "#1d2129",
+        "rgbcolor": "29, 33, 41;"
+    },
+    {
+        "id": 12,
+        "name": "Matte Black",
+        "hexcolor": "#13181f",
+        "rgbcolor": "19, 24, 31;"
+    },
+    {
+        "id": 13,
+        "name": "Matte Gray",
+        "hexcolor": "#26282a",
+        "rgbcolor": "38, 40, 42;"
+    },
+    {
+        "id": 14,
+        "name": "Matte Light Grey",
+        "hexcolor": "#515554",
+        "rgbcolor": "81, 85, 84;"
+    },
+    {
+        "id": 15,
+        "name": "Util Black",
+        "hexcolor": "#151921",
+        "rgbcolor": "21, 25, 33;"
+    },
+    {
+        "id": 16,
+        "name": "Util Black Poly",
+        "hexcolor": "#1e2429",
+        "rgbcolor": "30, 36, 41;"
+    },
+    {
+        "id": 17,
+        "name": "Util Dark silver",
+        "hexcolor": "#333a3c",
+        "rgbcolor": "51, 58, 60;"
+    },
+    {
+        "id": 18,
+        "name": "Util Silver",
+        "hexcolor": "#8c9095",
+        "rgbcolor": "140, 144, 149;"
+    },
+    {
+        "id": 19,
+        "name": "Util Gun Metal",
+        "hexcolor": "#39434d",
+        "rgbcolor": "57, 67, 77;"
+    },
+    {
+        "id": 20,
+        "name": "Util Shadow Silver",
+        "hexcolor": "#506272",
+        "rgbcolor": "80, 98, 114;"
+    },
+    {
+        "id": 21,
+        "name": "Worn Black",
+        "hexcolor": "#1e232f",
+        "rgbcolor": "30, 35, 47;"
+    },
+    {
+        "id": 22,
+        "name": "Worn Graphite",
+        "hexcolor": "#363a3f",
+        "rgbcolor": "54, 58, 63;"
+    },
+    {
+        "id": 23,
+        "name": "Worn Silver Grey",
+        "hexcolor": "#a0a199",
+        "rgbcolor": "160, 161, 153;"
+    },
+    {
+        "id": 24,
+        "name": "Worn Silver",
+        "hexcolor": "#d3d3d3",
+        "rgbcolor": "211, 211, 211;"
+    },
+    {
+        "id": 25,
+        "name": "Worn Blue Silver",
+        "hexcolor": "#b7bfca",
+        "rgbcolor": "183, 191, 202;"
+    },
+    {
+        "id": 26,
+        "name": "Worn Shadow Silver",
+        "hexcolor": "#778794",
+        "rgbcolor": "119, 135, 148;"
+    },
+    {
+        "id": 27,
+        "name": "Metallic Red",
+        "hexcolor": "#c00e1a",
+        "rgbcolor": "192, 14, 26;"
+    },
+    {
+        "id": 28,
+        "name": "Metallic Torino Red",
+        "hexcolor": "#da1918",
+        "rgbcolor": "218, 25, 24;"
+    },
+    {
+        "id": 29,
+        "name": "Metallic Formula Red",
+        "hexcolor": "#b6111b",
+        "rgbcolor": "182, 17, 27;"
+    },
+    {
+        "id": 30,
+        "name": "Metallic Blaze Red",
+        "hexcolor": "#a51e23",
+        "rgbcolor": "165, 30, 35;"
+    },
+    {
+        "id": 31,
+        "name": "Metallic Graceful Red",
+        "hexcolor": "#7b1a22",
+        "rgbcolor": "123, 26, 34;"
+    },
+    {
+        "id": 32,
+        "name": "Metallic Garnet Red",
+        "hexcolor": "#8e1b1f",
+        "rgbcolor": "142, 27, 31;"
+    },
+    {
+        "id": 33,
+        "name": "Metallic Desert Red",
+        "hexcolor": "#6f1818",
+        "rgbcolor": "111, 24, 24;"
+    },
+    {
+        "id": 34,
+        "name": "Metallic Cabernet Red",
+        "hexcolor": "#49111d",
+        "rgbcolor": "73, 17, 29;"
+    },
+    {
+        "id": 35,
+        "name": "Metallic Candy Red",
+        "hexcolor": "#b60f25",
+        "rgbcolor": "182, 15, 37;"
+    },
+    {
+        "id": 36,
+        "name": "Metallic Sunrise Orange",
+        "hexcolor": "#d44a17",
+        "rgbcolor": "212, 74, 23;"
+    },
+    {
+        "id": 37,
+        "name": "Metallic Classic Gold",
+        "hexcolor": "#c2944f",
+        "rgbcolor": "194, 148, 79;"
+    },
+    {
+        "id": 38,
+        "name": "Metallic Orange",
+        "hexcolor": "#f78616",
+        "rgbcolor": "247, 134, 22;"
+    },
+    {
+        "id": 39,
+        "name": "Matte Red",
+        "hexcolor": "#cf1f21",
+        "rgbcolor": "207, 31, 33;"
+    },
+    {
+        "id": 40,
+        "name": "Matte Dark Red",
+        "hexcolor": "#732021",
+        "rgbcolor": "115, 32, 33;"
+    },
+    {
+        "id": 41,
+        "name": "Matte Orange",
+        "hexcolor": "#f27d20",
+        "rgbcolor": "242, 125, 32;"
+    },
+    {
+        "id": 42,
+        "name": "Matte Yellow",
+        "hexcolor": "#ffc91f",
+        "rgbcolor": "255, 201, 31;"
+    },
+    {
+        "id": 43,
+        "name": "Util Red",
+        "hexcolor": "#9c1016",
+        "rgbcolor": "156, 16, 22;"
+    },
+    {
+        "id": 44,
+        "name": "Util Bright Red",
+        "hexcolor": "#de0f18",
+        "rgbcolor": "222, 15, 24;"
+    },
+    {
+        "id": 45,
+        "name": "Util Garnet Red",
+        "hexcolor": "#8f1e17",
+        "rgbcolor": "143, 30, 23;"
+    },
+    {
+        "id": 46,
+        "name": "Worn Red",
+        "hexcolor": "#a94744",
+        "rgbcolor": "169, 71, 68;"
+    },
+    {
+        "id": 47,
+        "name": "Worn Golden Red",
+        "hexcolor": "#b16c51",
+        "rgbcolor": "177, 108, 81;"
+    },
+    {
+        "id": 48,
+        "name": "Worn Dark Red",
+        "hexcolor": "#371c25",
+        "rgbcolor": "55, 28, 37;"
+    },
+    {
+        "id": 49,
+        "name": "Metallic Dark Green",
+        "hexcolor": "#132428",
+        "rgbcolor": "19, 36, 40;"
+    },
+    {
+        "id": 50,
+        "name": "Metallic Racing Green",
+        "hexcolor": "#122e2b",
+        "rgbcolor": "18, 46, 43;"
+    },
+    {
+        "id": 51,
+        "name": "Metallic Sea Green",
+        "hexcolor": "#12383c",
+        "rgbcolor": "18, 56, 60;"
+    },
+    {
+        "id": 52,
+        "name": "Metallic Olive Green",
+        "hexcolor": "#31423f",
+        "rgbcolor": "49, 66, 63;"
+    },
+    {
+        "id": 53,
+        "name": "Metallic Green",
+        "hexcolor": "#155c2d",
+        "rgbcolor": "21, 92, 45;"
+    },
+    {
+        "id": 54,
+        "name": "Metallic Gasoline Blue Green",
+        "hexcolor": "#1b6770",
+        "rgbcolor": "27, 103, 112;"
+    },
+    {
+        "id": 55,
+        "name": "Matte Lime Green",
+        "hexcolor": "#66b81f",
+        "rgbcolor": "102, 184, 31;"
+    },
+    {
+        "id": 56,
+        "name": "Util Dark Green",
+        "hexcolor": "#22383e",
+        "rgbcolor": "34, 56, 62;"
+    },
+    {
+        "id": 57,
+        "name": "Util Green",
+        "hexcolor": "#1d5a3f",
+        "rgbcolor": "29, 90, 63;"
+    },
+    {
+        "id": 58,
+        "name": "Worn Dark Green",
+        "hexcolor": "#2d423f",
+        "rgbcolor": "45, 66, 63;"
+    },
+    {
+        "id": 59,
+        "name": "Worn Green",
+        "hexcolor": "#45594b",
+        "rgbcolor": "69, 89, 75;"
+    },
+    {
+        "id": 60,
+        "name": "Worn Sea Wash",
+        "hexcolor": "#65867f",
+        "rgbcolor": "101, 134, 127;"
+    },
+    {
+        "id": 61,
+        "name": "Metallic Midnight Blue",
+        "hexcolor": "#222e46",
+        "rgbcolor": "34, 46, 70;"
+    },
+    {
+        "id": 62,
+        "name": "Metallic Dark Blue",
+        "hexcolor": "#233155",
+        "rgbcolor": "35, 49, 85;"
+    },
+    {
+        "id": 63,
+        "name": "Metallic Saxony Blue",
+        "hexcolor": "#304c7e",
+        "rgbcolor": "48, 76, 126;"
+    },
+    {
+        "id": 64,
+        "name": "Metallic Blue",
+        "hexcolor": "#47578f",
+        "rgbcolor": "71, 87, 143;"
+    },
+    {
+        "id": 65,
+        "name": "Metallic Mariner Blue",
+        "hexcolor": "#637ba7",
+        "rgbcolor": "99, 123, 167;"
+    },
+    {
+        "id": 66,
+        "name": "Metallic Harbor Blue",
+        "hexcolor": "#394762",
+        "rgbcolor": "57, 71, 98;"
+    },
+    {
+        "id": 67,
+        "name": "Metallic Diamond Blue",
+        "hexcolor": "#d6e7f1",
+        "rgbcolor": "214, 231, 241;"
+    },
+    {
+        "id": 68,
+        "name": "Metallic Surf Blue",
+        "hexcolor": "#76afbe",
+        "rgbcolor": "118, 175, 190;"
+    },
+    {
+        "id": 69,
+        "name": "Metallic Nautical Blue",
+        "hexcolor": "#345e72",
+        "rgbcolor": "52, 94, 114;"
+    },
+    {
+        "id": 70,
+        "name": "Metallic Bright Blue",
+        "hexcolor": "#0b9cf1",
+        "rgbcolor": "11, 156, 241;"
+    },
+    {
+        "id": 71,
+        "name": "Metallic Purple Blue",
+        "hexcolor": "#2f2d52",
+        "rgbcolor": "47, 45, 82;"
+    },
+    {
+        "id": 72,
+        "name": "Metallic Spinnaker Blue",
+        "hexcolor": "#282c4d",
+        "rgbcolor": "40, 44, 77;"
+    },
+    {
+        "id": 73,
+        "name": "Metallic Ultra Blue",
+        "hexcolor": "#2354a1",
+        "rgbcolor": "35, 84, 161;"
+    },
+    {
+        "id": 74,
+        "name": "Metallic Bright Blue",
+        "hexcolor": "#6ea3c6",
+        "rgbcolor": "110, 163, 198;"
+    },
+    {
+        "id": 75,
+        "name": "Util Dark Blue",
+        "hexcolor": "#112552",
+        "rgbcolor": "17, 37, 82;"
+    },
+    {
+        "id": 76,
+        "name": "Util Midnight Blue",
+        "hexcolor": "#1b203e",
+        "rgbcolor": "27, 32, 62;"
+    },
+    {
+        "id": 77,
+        "name": "Util Blue",
+        "hexcolor": "#275190",
+        "rgbcolor": "39, 81, 144;"
+    },
+    {
+        "id": 78,
+        "name": "Util Sea Foam Blue",
+        "hexcolor": "#608592",
+        "rgbcolor": "96, 133, 146;"
+    },
+    {
+        "id": 79,
+        "name": "Util Lightning blue",
+        "hexcolor": "#2446a8",
+        "rgbcolor": "36, 70, 168;"
+    },
+    {
+        "id": 80,
+        "name": "Util Maui Blue Poly",
+        "hexcolor": "#4271e1",
+        "rgbcolor": "66, 113, 225;"
+    },
+    {
+        "id": 81,
+        "name": "Util Bright Blue",
+        "hexcolor": "#3b39e0",
+        "rgbcolor": "59, 57, 224;"
+    },
+    {
+        "id": 82,
+        "name": "Matte Dark Blue",
+        "hexcolor": "#1f2852",
+        "rgbcolor": "31, 40, 82;"
+    },
+    {
+        "id": 83,
+        "name": "Matte Blue",
+        "hexcolor": "#253aa7",
+        "rgbcolor": "37, 58, 167;"
+    },
+    {
+        "id": 84,
+        "name": "Matte Midnight Blue",
+        "hexcolor": "#1c3551",
+        "rgbcolor": "28, 53, 81;"
+    },
+    {
+        "id": 85,
+        "name": "Worn Dark blue",
+        "hexcolor": "#4c5f81",
+        "rgbcolor": "76, 95, 129;"
+    },
+    {
+        "id": 86,
+        "name": "Worn Blue",
+        "hexcolor": "#58688e",
+        "rgbcolor": "88, 104, 142;"
+    },
+    {
+        "id": 87,
+        "name": "Worn Light blue",
+        "hexcolor": "#74b5d8",
+        "rgbcolor": "116, 181, 216"
+    },
+    {
+        "id": 88,
+        "name": "Metallic Taxi Yellow",
+        "hexcolor": "#ffcf20",
+        "rgbcolor": "255, 207, 32;"
+    },
+    {
+        "id": 89,
+        "name": "Metallic Race Yellow",
+        "hexcolor": "#fbe212",
+        "rgbcolor": "251, 226, 18;"
+    },
+    {
+        "id": 90,
+        "name": "Metallic Bronze",
+        "hexcolor": "#916532",
+        "rgbcolor": "145, 101, 50;"
+    },
+    {
+        "id": 91,
+        "name": "Metallic Yellow Bird",
+        "hexcolor": "#e0e13d",
+        "rgbcolor": "224, 225, 61;"
+    },
+    {
+        "id": 92,
+        "name": "Metallic Lime",
+        "hexcolor": "#98d223",
+        "rgbcolor": "152, 210, 35;"
+    },
+    {
+        "id": 93,
+        "name": "Metallic Champagne",
+        "hexcolor": "#9b8c78",
+        "rgbcolor": "155, 140, 120;"
+    },
+    {
+        "id": 94,
+        "name": "Metallic Pueblo Beige",
+        "hexcolor": "#503218",
+        "rgbcolor": "80, 50, 24;"
+    },
+    {
+        "id": 95,
+        "name": "Metallic Dark Ivory",
+        "hexcolor": "#473f2b",
+        "rgbcolor": "71, 63, 43;"
+    },
+    {
+        "id": 96,
+        "name": "Metallic Choco Brown",
+        "hexcolor": "#221b19",
+        "rgbcolor": "34, 27, 25;"
+    },
+    {
+        "id": 97,
+        "name": "Metallic Golden Brown",
+        "hexcolor": "#653f23",
+        "rgbcolor": "101, 63, 35;"
+    },
+    {
+        "id": 98,
+        "name": "Metallic Light Brown",
+        "hexcolor": "#775c3e",
+        "rgbcolor": "119, 92, 62;"
+    },
+    {
+        "id": 99,
+        "name": "Metallic Straw Beige",
+        "hexcolor": "#ac9975",
+        "rgbcolor": "172, 153, 117;"
+    },
+    {
+        "id": 100,
+        "name": "Metallic Moss Brown",
+        "hexcolor": "#6c6b4b",
+        "rgbcolor": "108, 107, 75;"
+    },
+    {
+        "id": 101,
+        "name": "Metallic Biston Brown",
+        "hexcolor": "#402e2b",
+        "rgbcolor": "64, 46, 43;"
+    },
+    {
+        "id": 102,
+        "name": "Metallic Beechwood",
+        "hexcolor": "#a4965f",
+        "rgbcolor": "164, 150, 95;"
+    },
+    {
+        "id": 103,
+        "name": "Metallic Dark Beechwood",
+        "hexcolor": "#46231a",
+        "rgbcolor": "70, 35, 26;"
+    },
+    {
+        "id": 104,
+        "name": "Metallic Choco Orange",
+        "hexcolor": "#752b19",
+        "rgbcolor": "117, 43, 25;"
+    },
+    {
+        "id": 105,
+        "name": "Metallic Beach Sand",
+        "hexcolor": "#bfae7b",
+        "rgbcolor": "191, 174, 123;"
+    },
+    {
+        "id": 106,
+        "name": "Metallic Sun Bleeched Sand",
+        "hexcolor": "#dfd5b2",
+        "rgbcolor": "223, 213, 178;"
+    },
+    {
+        "id": 107,
+        "name": "Metallic Cream",
+        "hexcolor": "#f7edd5",
+        "rgbcolor": "247, 237, 213;"
+    },
+    {
+        "id": 108,
+        "name": "Util Brown",
+        "hexcolor": "#3a2a1b",
+        "rgbcolor": "58, 42, 27;"
+    },
+    {
+        "id": 109,
+        "name": "Util Medium Brown",
+        "hexcolor": "#785f33",
+        "rgbcolor": "120, 95, 51;"
+    },
+    {
+        "id": 110,
+        "name": "Util Light Brown",
+        "hexcolor": "#b5a079",
+        "rgbcolor": "181, 160, 121;"
+    },
+    {
+        "id": 111,
+        "name": "Metallic White",
+        "hexcolor": "#fffff6",
+        "rgbcolor": "255, 255, 246;"
+    },
+    {
+        "id": 112,
+        "name": "Metallic Frost White",
+        "hexcolor": "#eaeaea",
+        "rgbcolor": "234, 234, 234;"
+    },
+    {
+        "id": 113,
+        "name": "Worn Honey Beige",
+        "hexcolor": "#b0ab94",
+        "rgbcolor": "176, 171, 148;"
+    },
+    {
+        "id": 114,
+        "name": "Worn Brown",
+        "hexcolor": "#453831",
+        "rgbcolor": "69, 56, 49;"
+    },
+    {
+        "id": 115,
+        "name": "Worn Dark Brown",
+        "hexcolor": "#2a282b",
+        "rgbcolor": "42, 40, 43;"
+    },
+    {
+        "id": 116,
+        "name": "Worn straw beige",
+        "hexcolor": "#726c57",
+        "rgbcolor": "114, 108, 87;"
+    },
+    {
+        "id": 117,
+        "name": "Brushed Steel",
+        "hexcolor": "#6a747c",
+        "rgbcolor": "106, 116, 124;"
+    },
+    {
+        "id": 118,
+        "name": "Brushed Black steel",
+        "hexcolor": "#354158",
+        "rgbcolor": "53, 65, 88;"
+    },
+    {
+        "id": 119,
+        "name": "Brushed Aluminium",
+        "hexcolor": "#9ba0a8",
+        "rgbcolor": "155, 160, 168;"
+    },
+    {
+        "id": 120,
+        "name": "Chrome",
+        "hexcolor": "#5870a1",
+        "rgbcolor": "88, 112, 161;"
+    },
+    {
+        "id": 121,
+        "name": "Worn Off White",
+        "hexcolor": "#eae6de",
+        "rgbcolor": "234, 230, 222;"
+    },
+    {
+        "id": 122,
+        "name": "Util Off White",
+        "hexcolor": "#dfddd0",
+        "rgbcolor": "223, 221, 208;"
+    },
+    {
+        "id": 123,
+        "name": "Worn Orange",
+        "hexcolor": "#f2ad2e",
+        "rgbcolor": "242, 173, 46;"
+    },
+    {
+        "id": 124,
+        "name": "Worn Light Orange",
+        "hexcolor": "#f9a458",
+        "rgbcolor": "249, 164, 88;"
+    },
+    {
+        "id": 125,
+        "name": "Metallic Securicor Green",
+        "hexcolor": "#83c566",
+        "rgbcolor": "131, 197, 102;"
+    },
+    {
+        "id": 126,
+        "name": "Worn Taxi Yellow",
+        "hexcolor": "#f1cc40",
+        "rgbcolor": "241, 204, 64;"
+    },
+    {
+        "id": 127,
+        "name": "police car blue",
+        "hexcolor": "#4cc3da",
+        "rgbcolor": "76, 195, 218;"
+    },
+    {
+        "id": 128,
+        "name": "Matte Green",
+        "hexcolor": "#4e6443",
+        "rgbcolor": "78, 100, 67;"
+    },
+    {
+        "id": 129,
+        "name": "Matte Brown",
+        "hexcolor": "#bcac8f",
+        "rgbcolor": "188, 172, 143;"
+    },
+    {
+        "id": 130,
+        "name": "Worn Orange",
+        "hexcolor": "#f8b658",
+        "rgbcolor": "248, 182, 88;"
+    },
+    {
+        "id": 131,
+        "name": "Matte White",
+        "hexcolor": "#fcf9f1",
+        "rgbcolor": "252, 249, 241;"
+    },
+    {
+        "id": 132,
+        "name": "Worn White",
+        "hexcolor": "#fffffb",
+        "rgbcolor": "255, 255, 251;"
+    },
+    {
+        "id": 133,
+        "name": "Worn Olive Army Green",
+        "hexcolor": "#81844c",
+        "rgbcolor": "129, 132, 76;"
+    },
+    {
+        "id": 134,
+        "name": "Pure White",
+        "hexcolor": "#ffffff",
+        "rgbcolor": "255, 255, 255;"
+    },
+    {
+        "id": 135,
+        "name": "Hot Pink",
+        "hexcolor": "#f21f99",
+        "rgbcolor": "242, 31, 153;"
+    },
+    {
+        "id": 136,
+        "name": "Salmon pink",
+        "hexcolor": "#fdd6cd",
+        "rgbcolor": "253, 214, 205;"
+    },
+    {
+        "id": 137,
+        "name": "Metallic Vermillion Pink",
+        "hexcolor": "#df5891",
+        "rgbcolor": "223, 88, 145;"
+    },
+    {
+        "id": 138,
+        "name": "Orange",
+        "hexcolor": "#f6ae20",
+        "rgbcolor": "246, 174, 32;"
+    },
+    {
+        "id": 139,
+        "name": "Green",
+        "hexcolor": "#b0ee6e",
+        "rgbcolor": "176, 238, 110;"
+    },
+    {
+        "id": 140,
+        "name": "Blue",
+        "hexcolor": "#08e9fa",
+        "rgbcolor": "8, 233, 250;"
+    },
+    {
+        "id": 141,
+        "name": "Mettalic Black Blue",
+        "hexcolor": "#0a0c17",
+        "rgbcolor": "10, 12, 23;"
+    },
+    {
+        "id": 142,
+        "name": "Metallic Black Purple",
+        "hexcolor": "#0c0d18",
+        "rgbcolor": "12, 13, 24;"
+    },
+    {
+        "id": 143,
+        "name": "Metallic Black Red",
+        "hexcolor": "#0e0d14",
+        "rgbcolor": "14, 13, 20;"
+    },
+    {
+        "id": 144,
+        "name": "hunter green",
+        "hexcolor": "#9f9e8a",
+        "rgbcolor": "159, 158, 138;"
+    },
+    {
+        "id": 145,
+        "name": "Metallic Purple",
+        "hexcolor": "#621276",
+        "rgbcolor": "98, 18, 118;"
+    },
+    {
+        "id": 146,
+        "name": "Metaillic V Dark Blue",
+        "hexcolor": "#0b1421",
+        "rgbcolor": "11, 20, 33;"
+    },
+    {
+        "id": 147,
+        "name": "MODSHOP BLACK1",
+        "hexcolor": "#11141a",
+        "rgbcolor": "17, 20, 26;"
+    },
+    {
+        "id": 148,
+        "name": "Matte Purple",
+        "hexcolor": "#6b1f7b",
+        "rgbcolor": "107, 31, 123;"
+    },
+    {
+        "id": 149,
+        "name": "Matte Dark Purple",
+        "hexcolor": "#1e1d22",
+        "rgbcolor": "30, 29, 34;"
+    },
+    {
+        "id": 150,
+        "name": "Metallic Lava Red",
+        "hexcolor": "#bc1917",
+        "rgbcolor": "188, 25, 23;"
+    },
+    {
+        "id": 151,
+        "name": "Matte Forest Green",
+        "hexcolor": "#2d362a",
+        "rgbcolor": "45, 54, 42;"
+    },
+    {
+        "id": 152,
+        "name": "Matte Olive Drab",
+        "hexcolor": "#696748",
+        "rgbcolor": "105, 103, 72;"
+    },
+    {
+        "id": 153,
+        "name": "Matte Desert Brown",
+        "hexcolor": "#7a6c55",
+        "rgbcolor": "122, 108, 85;"
+    },
+    {
+        "id": 154,
+        "name": "Matte Desert Tan",
+        "hexcolor": "#c3b492",
+        "rgbcolor": "195, 180, 146;"
+    },
+    {
+        "id": 155,
+        "name": "Matte Foilage Green",
+        "hexcolor": "#5a6352",
+        "rgbcolor": "90, 99, 82;"
+    },
+    {
+        "id": 156,
+        "name": "DEFAULT ALLOY COLOR",
+        "hexcolor": "#81827f",
+        "rgbcolor": "129, 130, 127;"
+    },
+    {
+        "id": 157,
+        "name": "Epsilon Blue",
+        "hexcolor": "#afd6e4",
+        "rgbcolor": "175, 214, 228;"
+    },
+    {
+        "id": 158,
+        "name": "Pure Gold",
+        "hexcolor": "#7a6440",
+        "rgbcolor": "122, 100, 64;"
+    },
+    {
+        "id": 159,
+        "name": "Brushed Gold",
+        "hexcolor": "#7f6a48",
+        "rgbcolor": "127, 106, 72;"
+    }
+]
